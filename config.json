@@ -1,6 +1,7 @@
 {
   "track_id": "system-verilog",
   "language": "SystemVerilog",
+  "slug": "system-verilog",
   "active": false,
   "status": {
     "concept_exercises": false,
