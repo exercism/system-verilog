@@ -1,5 +1,5 @@
 # Exercism SystemVerilog Track
 
-[![Build Status](https://travis-ci.org/exercism/system-verilog.svg?branch=master)](https://travis-ci.org/exercism/system-verilog)
+[![Configlet Status](https://github.com/exercism/system-verilog/workflows/configlet/badge.svg)]
 
 Exercism exercises in SystemVerilog.
