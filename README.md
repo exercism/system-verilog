@@ -1,5 +1,4 @@
 # Exercism SystemVerilog Track
-
-[![Configlet Status](https://github.com/exercism/system-verilog/workflows/configlet/badge.svg)]
+[![Configlet CI Status](https://github.com/exercism/system-verilog/actions/workflows/configlet.yml/badge.svg)](https://github.com/exercism/system-verilog/actions/workflows/configlet.yml)
 
 Exercism exercises in SystemVerilog.
