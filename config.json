@@ -9,7 +9,7 @@
     "representer": false,
     "analyzer": false
   },
-  "blurb": "",
+  "blurb": "SystemVerilog is a hybrid of the Hardware Description Language (HDL) and the Hardware Verification Language (HVL), which is abbreviated as HDVL. That is, it describes the form and behaviour of electronic circuits while also verifying electronic circuits expressed in a Hardware Description Language.",
   "version": 3,
   "online_editor": {
     "indent_style": "space",
