@@ -25,7 +25,7 @@
   "tags": [
     "paradigm/imperative",
     "paradigm/object_oriented",
-    "typing/static"
+    "typing/static",
     "typing/dynamic",
     "typing/weak",
     "execution_mode/compiled",
