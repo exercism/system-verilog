@@ -1,4 +1,7 @@
 # Exercism SystemVerilog Track
-[![Configlet CI Status](https://github.com/exercism/system-verilog/actions/workflows/configlet.yml/badge.svg)](https://github.com/exercism/system-verilog/actions/workflows/configlet.yml)
 
-Exercism exercises in SystemVerilog.
+## Status
+
+A little bit of work has been done to start configuring this track, but no exercises have been built.
+
+If you wish to work on this track, please open an issue in the [Exercism Community Forum](https://forum.exercism.org/c/exercism/building-exercism/125) to discuss it with the team.
