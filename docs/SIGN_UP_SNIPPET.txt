@@ -1,0 +1,15 @@
+function automatic string most_common_word(string text);
+  int counts[string];
+  string word, best = "";
+  int start = 0;
+  text = {text.tolower(), " "};
+  for (int i = 0; i < text.len(); i++) begin
+    if (text[i] == " ") begin
+      word = text.substr(start, i - 1);
+      start = i + 1;
+      counts[word]++;
+      if (best == "" || counts[word] > counts[best]) best = word;
+    end
+  end
+  return $sformatf("\"%s\" appears %0d times", best, counts[best]);
+endfunction
